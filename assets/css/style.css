@@ -75,6 +75,10 @@ nav a:hover {
     font-size: 2em;
     padding: 20px;
     margin: 10px;
+    text-align: center;
+    width: 25%;
+    height: auto
+
 }
 
 table {
