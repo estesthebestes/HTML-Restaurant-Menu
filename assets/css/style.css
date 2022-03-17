@@ -15,13 +15,13 @@ h3,
 p,
 li {
     color: green;
-    size: medium;
+    size: large;
 }
 
 img {
     width: 75%;
     height: auto;
-    max-width: 25%;
+    max-width: 35%;
 }
 
 main {
@@ -57,13 +57,13 @@ nav a:hover {
 }
 
 #banner {
-    width: 75%;
+    width: 80%;
     height: auto;
     background-color: white;
 }
 
 #banner img {
-    width: 60%;
+    width: 80%;
     height: auto;
     max-height: 50%;
 }
@@ -78,7 +78,7 @@ nav a:hover {
     padding: 20px;
     margin: 10px;
     text-align: center;
-    width: 35%;
+    width: 30%;
     height: auto
 
 }
@@ -106,4 +106,8 @@ th {
 
 .about-images-styling-foot-picture {
     height: 263.98px; 
+}
+
+.bigger-text {
+    font-size: 1.4em;
 }
